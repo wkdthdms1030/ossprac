@@ -1,0 +1,10 @@
+name = input("이름을 입력하세요:")
+id = input("학번을 입력하세요:")
+major = input("학과를 입력하세요:")
+school = input("학교를 입력하세요:")
+
+print("<출력>")
+print("이름 :%s"%name)
+print("학번 :%s"%id)
+print("학과 :%s"%major)
+print("학교 :%s"%school)
