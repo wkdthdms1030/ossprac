@@ -10,4 +10,4 @@ print("학번 :%s"%id)
 print("학과 :%s"%major)
 print("학교 :%s"%school)
 print("학년:%s"%grade)
-
+print("소은이는 공부중")
